@@ -1,0 +1,8 @@
+aiohttp
+pylru
+ecdsa
+pytest-cov
+python-coveralls
+x11_hash
+plyvel
+aiorpcX
