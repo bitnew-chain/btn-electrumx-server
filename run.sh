@@ -78,7 +78,7 @@ ulimit -n 65535
 export COIN=BTN
 # http://user:password@127.0.0.1
 # user  keep same with btnd btn.conf's rpcuser ; password keep same with  btnd btn.conf rpcpassword; 127.0.0.1 keep same with btnd btn.conf's rpcallowi  
-export DAEMON_URL=http:///user:password@127.0.0.1
+export DAEMON_URL=http://user:password@127.0.0.1
 export NET=mainnet
 
 echo "$HOME/.electrumx"
